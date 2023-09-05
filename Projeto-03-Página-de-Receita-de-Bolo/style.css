@@ -2,6 +2,10 @@ div {
     font-family: Verdana
 }
 
+img {
+    width: 1790px
+}
+
 h1 {
     font-size: 22px;
     text-align: center
@@ -22,5 +26,6 @@ h3 {
 
 p {
     font-size: 14px;
-    line-height: 28px
+    line-height: 28px;
+    text-align: justify
 }
